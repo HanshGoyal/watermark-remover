@@ -1,0 +1,29 @@
+# Environments
+venv/
+env/
+.env
+
+# Video files
+*.mp4
+*.mov
+*.mkv
+*.avi
+
+# Output directories
+clean/
+clean2/
+clean3/
+clean4/
+temp/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
